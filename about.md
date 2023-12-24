@@ -7,5 +7,4 @@ title: 关于我们
 
 在这里一起发掘好玩、有趣的内容
 
-联系我们：
 Email：ghost0190@hotmail.com
